@@ -11,7 +11,7 @@ const ArticleSections = () => {
         <LatestArticles />
       </div>
       <div>
-        <div className="popular-articles-container sticky top-8">
+        <div className="popular-articles-container sticky top-40">
           <ArticlesHeading title="Popular Articles" />
           <PopularArticles />
         </div>
